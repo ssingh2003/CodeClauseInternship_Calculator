@@ -12,3 +12,5 @@ A basic Calculator Application developed in Python. It uses Tkintr for the GUI p
 
 Here is a sample screenshot for the same
 
+<img width="291" alt="zero" src="https://github.com/ssingh2003/CodeClauseInternship_Calculator/assets/50519977/d399f6ce-c219-458f-8600-f11cdf4efd1f">
+
